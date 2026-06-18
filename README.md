@@ -126,3 +126,19 @@ The experience demonstrated that successful AI-assisted development depends not 
 This assignment provided practical experience with LaTeX document preparation and PDF generation. Beyond producing a PDF file, the project demonstrated how source code, documentation, and structured repository management can be combined to create professional academic content.
 
 The experience improved my understanding of document engineering, repository organization, and AI-assisted software development workflows. These skills can be useful in future academic, technical, and professional projects.
+
+---
+
+## Example Prompts Used During Development
+
+The following prompts were useful during development:
+
+1. Create a complete LaTeX academic report including sections, abstract, references, table, figure, and graph.
+
+2. Generate a PGFPlots bar chart showing LaTeX usage across academic disciplines.
+
+3. Create a comparison table between LaTeX and Microsoft Word using LaTeX tabular syntax.
+
+4. Integrate an external image into a LaTeX document and generate a figure with caption and label.
+
+5. Create PRD, PLAN, TODO, and README documentation files for a GitHub submission.
