@@ -109,6 +109,18 @@ The final document successfully demonstrates the use of LaTeX and LuaLaTeX for p
 
 ---
 
+## AI-Assisted Development and Prompt Engineering
+
+A central part of this assignment was learning how to communicate effectively with AI tools in order to generate the required LaTeX code and supporting documentation. Rather than manually writing every component from scratch, the development process involved creating clear instructions and refining prompts to obtain accurate outputs.
+
+Several prompts were used throughout the project. These prompts focused on generating the document structure, creating LaTeX sections, building tables and graphs, integrating images, producing Markdown documentation files, and troubleshooting compilation errors.
+
+The AI-generated outputs were not accepted automatically. Each generated component was reviewed, tested, modified when necessary, and integrated into the final project structure. This iterative process improved both the quality of the final document and my understanding of LaTeX development.
+
+The experience demonstrated that successful AI-assisted development depends not only on the capabilities of the AI system, but also on the quality and clarity of the instructions provided by the user. Effective prompt engineering significantly reduced development time while maintaining full control over the final deliverables.
+
+---
+
 ## Conclusion
 
 This assignment provided practical experience with LaTeX document preparation and PDF generation. Beyond producing a PDF file, the project demonstrated how source code, documentation, and structured repository management can be combined to create professional academic content.
